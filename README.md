@@ -1,1 +1,1 @@
-# graphics-portfolio
+# software-engineering-portfolio
